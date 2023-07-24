@@ -16,14 +16,17 @@ Applying the patches is done by hand. I use official driver AMD for Linux by lin
 
 # Instruction 
 Download the driver from the link above. 
+
 `cd <driver_path>`
 `patch -p1 <patch-linux6-810`
+`Follow the instructions in the driver.`
+
 or
+
 `cd <driver_path>/driver_sdk`
 `patch -p1 <patch-linux6-930`
-
-Follow the instructions in the driver.
+`Follow the instructions in the driver.`
 
 Free code driver it's same ( little difference ), but blob other. 
-I not include patch in blob for working 930 in AM4(AM5?) with raid5. Sorry, this is not fair to AMD.
+I not include patch in blob for working 930 in AM4(AM5?). Sorry, this is not fair to AMD.
 
