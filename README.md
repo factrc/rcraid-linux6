@@ -27,5 +27,5 @@ or
 `patch -p1 <patch-linux6-930`   
 `Follow the instructions in the driver.`   
 
-Free code driver it's same ( little difference ), but blob other.    
+Free code drivers 8.1.0 & 9.3.0 it's same ( little difference ), but blob other.    
 I not include patch in blob for working 930 in AM4.   
